@@ -1,0 +1,9 @@
+h2.intro {
+  color: red;
+}
+p.intro {
+  color: blue;
+}
+img.intro {
+  image-resolution: snap;
+}
