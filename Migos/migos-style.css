@@ -1,0 +1,9 @@
+.sidebar {
+  float: right;
+  font-size: 15px;
+  color: red;
+}
+
+.images {
+  float: left;
+}
